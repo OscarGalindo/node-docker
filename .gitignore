@@ -1,0 +1,13 @@
+## Directory-based project format:
+.idea/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+coverage
+node_modules
+app/components
+dist
+
