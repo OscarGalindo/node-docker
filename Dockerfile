@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER mvNerds
+MAINTAINER me
 
 RUN apt-get update -y && \
     apt-get install nodejs-legacy npm -y && \
